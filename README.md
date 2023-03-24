@@ -1,5 +1,3 @@
-# testeAgendor
-
 # Requisito node.js
 
 https://nodejs.org/en
